@@ -1,6 +1,7 @@
 # map_route_navigation
 
-A new Flutter project.
+A demo flutter project in which you can find we are getting route value from google API and can draw Polyline on Map. And when user commute from current location to destinatio, we can show live route navigation on map.
+Here destinaiton is static, Later we will make it as user's choice.
 
 ## Getting Started
 
